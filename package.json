@@ -1,0 +1,25 @@
+{
+  "name": "challenge-js-four",
+  "version": "1.0.0",
+  "description": "Reto 4 con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDGC/challenge-js-four.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "JohnDGC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnDGC/challenge-js-four/issues"
+  },
+  "homepage": "https://github.com/JohnDGC/challenge-js-four#readme",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  }
+}
